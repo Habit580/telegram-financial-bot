@@ -11,5 +11,8 @@
     "googleapis": "^130.0.0",
     "telegraf": "^4.15.3",
     "tesseract.js": "^5.0.3"
+  },
+  "devDependencies": {
+    "@flydotio/dockerfile": "^0.7.15"
   }
 }
